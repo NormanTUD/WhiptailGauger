@@ -32,3 +32,7 @@ Set `DISPLAYGAUGE=0` to disable gauge automatically.
 # Example
 
 See the `example.sh` on how to use this.
+
+# Requirements
+
+Of course, whiptail needs to be installed
